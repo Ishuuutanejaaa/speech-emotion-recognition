@@ -13,7 +13,7 @@ __version__ = '1.1'
 
 
 class Model(object):
-    """
+ #mei hun doremon.   """
     Model is the abstract class which determines how a model should be.
     Any model inheriting this class should do the following.
 
